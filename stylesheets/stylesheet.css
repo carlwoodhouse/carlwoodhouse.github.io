@@ -471,6 +471,10 @@ footer a:hover {
   }
 }
 
+ins.adsbygoogle {
+	margin-left: -8px;
+}
+
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {}
 

@@ -420,7 +420,7 @@ footer a:hover {
   header h1 {
     font-size: 48px;
   }
-  header h1 a, header h1 a:hover,{
+  header h1 a, header h1 a:hover{
 	color: #fff;
   }
   header h2 {
